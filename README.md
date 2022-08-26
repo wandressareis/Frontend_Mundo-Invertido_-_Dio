@@ -2,4 +2,4 @@
 Prática sobre a construção de site. 
 --> Site de inscrição no clube da série "Stranger Things", utilizando Javascript, CSS e HTML
 
-<a href="https://wandressareis.github.io/Frontend_Mundo-Invertido_-_Dio/"> Acesse o site por aqui. </a>
+<a href="https://wandressareis.github.io/Frontend_Mundo-Invertido_-_Dio/"> Acesse o site clicando aqui. </a>
